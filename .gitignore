@@ -1,3 +1,4 @@
 dados/
 .venv/
 .ipynb_checkpoints/
+*.pbix

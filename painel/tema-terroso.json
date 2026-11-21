@@ -1,0 +1,11 @@
+{
+  "name": "Terroso ES",
+  "dataColors": ["#4F6F52", "#B85C24", "#6E4A2E", "#D4A03E",
+                 "#9BB09A", "#CDBBA0", "#2F4A3A", "#6B6358"],
+  "background": "#FFFDF8",
+  "foreground": "#2E2A25",
+  "tableAccent": "#4F6F52",
+  "good": "#4F6F52",
+  "neutral": "#D4A03E",
+  "bad": "#B85C24"
+}
